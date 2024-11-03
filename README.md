@@ -11,6 +11,6 @@ Sound Effects: Optional sound effects to enhance the user experience.
  - Language: Kotlin
  - Framework: Jetpack Compose
  - Libraries/Tools:
-  - SpeechRecognizer for voice input handling
-  - MediaPlayer for sound effects
-  - Material3 for UI components
+  • SpeechRecognizer for voice input handling
+  • MediaPlayer for sound effects
+  • Material3 for UI components
